@@ -5,7 +5,7 @@
 # 1. Remove duplicates 
 # 2. Standardize the data
 # 3. Null values or blank values
-# 4. Remove any columns or rows that are unneded
+# 4. Remove any columns or rows that are not needed
 -----------------------------------------------------------------------------------------------
 
 
